@@ -2,7 +2,6 @@
 
 - 🔭 Estou buscando desenvolver novas habilidades.
 - 🌱 Estudando logica de programação com IA.
-- 💬 Contate-me em : marciolino027@gmail.com
 
 [![Marcio Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioLino27&show_icons=true&theme=radical)](https://github.com/MarcioLino27/github-readme-stats)
 
